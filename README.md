@@ -26,3 +26,7 @@ cd tic-tac-toe
 - HTML
 - CSS
 - JavaScript
+
+
+netlify Link:
+https://gursimran97-tic-tac-toe.netlify.app
